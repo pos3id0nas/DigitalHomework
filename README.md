@@ -9,6 +9,9 @@
 To Αρχικό template που χρησιμοποιήιηκε είναι το classimax ενα template βασισμένο στο bootstrap.
 Μπορούμε να το βρούμε εδώ και είναι δωρεάν https://themefisher.com/products/classimax-bootstrap-classified-responsive-theme/
 
+Το Project έχει ανέβει ήδη και τρέχει σε προσωπικό μου server μηχάνημα ubuntu 21.04.
+Μπορείτε να το επισκεφτείτε στην διεύθυνση www.digitalhomework.ddns.net
+
 Η εφαρμογή είναι API based. Το backend να αναπτυχθεί ανεξάρτητα από το frontend. Το backend απαντάει στα http request στέλνοντας δεδομένα σε json. Αντίστοιχα, το frontend  
 να κάνει http request μέσω ajax calls. ΟΧΙ μεθοδολογία “Spaghetti” 
 
